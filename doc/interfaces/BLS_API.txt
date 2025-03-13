@@ -1,0 +1,2 @@
+#Bureau of Labor Statistics Public Data API. Your API key is: e80a19771e034aa4872c6101a44ae98b.
+#Register email: my yahoo emial.

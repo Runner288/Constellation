@@ -1,7 +1,7 @@
 #Structure of the Project:
 Constellation/
-│── src/                      # Main application source code
-│   ├── __init__.py           # Makes src a package
+│── libra/                      # Main application source code
+│   ├── __init__.py           # Makes libra a package
 │   ├── main.py               # Entry point of the application
 │   ├── config.py             # Configuration settings
 │   ├── utils/                # Utility functions

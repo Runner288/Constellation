@@ -1,0 +1,5 @@
+SSL Error:
+Error retrieving stock info for AAPL: HTTPSConnectionPool(host='fc.yahoo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+
+Solutions:
+1. Update certifi (Most Common Solution): pip install --upgrade certifi
